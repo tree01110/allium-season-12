@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitattritbutes.txt"
-hash = "f70d755466b101646b043fe3c62c4f8a39eae827c1a2a303a2d39ccd93f534f8"
-
-[[files]]
 file = ".gitignore.txt"
-hash = "26290ac47918f49a0d4e1fbc2f23aae57d3fd9baeb959420bfd50ca94b247bc1"
+hash = "90d7c8363910e5e1fa4c550527c4ea486f7c70034992d95c50544e0bf24677d1"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -1547,6 +1543,10 @@ hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
 hash = "e63fbc2d25ccd2d86eb887562d3f5f544dadcb75b0c68dd7cc152f7197a1e2d7"
+
+[[files]]
+file = "gitattributes.txt"
+hash = "2b4a36b3152af89c2af116c71c13e3d20ee2acb0c8cbc4b468d8e2d388727ae0"
 
 [[files]]
 file = "kubejs/README.txt"
