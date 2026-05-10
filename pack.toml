@@ -1,0 +1,13 @@
+name = "Allium Season 12"
+author = "Devoid_"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "77db176709c11c9984bb90a1b385a5327142b52502f2345b4d946da5550afe74"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"

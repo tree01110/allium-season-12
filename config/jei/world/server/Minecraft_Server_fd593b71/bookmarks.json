@@ -1,0 +1,15 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:gold_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:dark_oak_stairs"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:tripwire_hook"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:beetroot_soup"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:experience_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:copper_sheet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:birch_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:burn_pottery_sherd"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:sand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:scroll","components":{"irons_spellbooks:spell_container":{"mustEquip":false,"data":[{"id":"irons_spellbooks:cone_of_cold","index":0,"level":6,"locked":true}],"maxSpells":1,"spellWheel":false}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_jewelry:necklace","components":{"irons_jewelry:jewelry_data":{"pattern":"irons_jewelry:rhinestone_amulet","parts":{"irons_jewelry:gem_rhinestone_a":"irons_jewelry:emerald","irons_jewelry:gem_rhinestone_b":"irons_jewelry:lapis","irons_jewelry:gem_rhinestone_c":"irons_jewelry:amethyst","irons_jewelry:chain_rhinestone":"irons_jewelry:brass"}},"minecraft:item_name":"{\"translate\":\"pattern.irons_jewelry.rhinestone_amulet.item\",\"with\":[{\"translate\":\"material.irons_jewelry.amethyst\"},{\"translate\":\"material.irons_jewelry.lapis\"},{\"translate\":\"material.irons_jewelry.emerald\"},{\"translate\":\"material.irons_jewelry.brass\"}]}"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:raw_copper"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

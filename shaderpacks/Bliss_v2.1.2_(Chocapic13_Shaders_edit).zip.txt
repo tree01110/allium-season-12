@@ -1,0 +1,2 @@
+#Sat May 09 21:37:39 EDT 2026
+CloudLayer1_density=0.87

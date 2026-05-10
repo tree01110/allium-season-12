@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"simulated:linked_typewriter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aeronautics:andesite_propeller"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:white_portable_engine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:plunger_launcher"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
