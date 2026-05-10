@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".gitattritbutes.txt"
+hash = "f70d755466b101646b043fe3c62c4f8a39eae827c1a2a303a2d39ccd93f534f8"
+
+[[files]]
 file = ".gitignore.txt"
 hash = "26290ac47918f49a0d4e1fbc2f23aae57d3fd9baeb959420bfd50ca94b247bc1"
 
