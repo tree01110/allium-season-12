@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".gitignore.txt"
+hash = "26290ac47918f49a0d4e1fbc2f23aae57d3fd9baeb959420bfd50ca94b247bc1"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
