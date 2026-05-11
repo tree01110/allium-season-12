@@ -1893,6 +1893,10 @@ file = "mods/create_blaze_burner_fuels-1.0.2-neoforge-1.21.1.jar"
 hash = "69235a1ddd64fa7a37c898258b45ef90ed204b9626c48b73b3ed2d8aa614103e"
 
 [[files]]
+file = "mods/create_connected-1.1.13-mc1.21.1.jar"
+hash = "f78002d3f41c30bc478b6e47028f02a20a24fd74ff8c8c22013b83b01fb4b83d"
+
+[[files]]
 file = "mods/create_fantasizing-1.21.1-1.1.1.jar"
 hash = "42ac04687a38834a70e17b14229eb8757a437601ce2f5555f9f9670f96c6b72f"
 
