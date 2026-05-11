@@ -1597,6 +1597,10 @@ file = "mods/Chimes-v2.1.1-1.21.1-NeoForge.jar"
 hash = "83b83b60bb40f34b2422d785ca40e287eacb31a1fc3a4f9564ee9e7c3dcc283b"
 
 [[files]]
+file = "mods/Controlling-neoforge-1.21.1-19.0.5.jar"
+hash = "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
+
+[[files]]
 file = "mods/CraftTweaker-neoforge-1.21.1-21.0.38.jar"
 hash = "4c4a95ca706e1aec41145b2db32737f2aebf1fdedefda0b35b651cad3fa4abaf"
 
@@ -1687,6 +1691,10 @@ hash = "cc7e5d1e9b70a2124ae218adc9dd6fd7334da027c5a1d172f3fe291be8208870"
 [[files]]
 file = "mods/MoogsVoyagerStructures-1.21-5.0.9.jar"
 hash = "2e8ac33b313173d513b258f33160fbd15fb9b82bb8fba01e964f69a026759c0b"
+
+[[files]]
+file = "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+hash = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
 
 [[files]]
 file = "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar"
@@ -1945,8 +1953,8 @@ file = "mods/createmoredrillheads-2.1.0-1.21.1.jar"
 hash = "bd8087680e80a5db96c4f32dfa830838c698ff50ed5207d57b36c046b87eb3e6"
 
 [[files]]
-file = "mods/createpropulsion-nightly-2639d42a.jar"
-hash = "d56c6cda28fb081c2f0f9d6c51ab5bc5a4661915e434016e611fd7c4ebbac65e"
+file = "mods/createpropulsion-1.1.3.jar"
+hash = "3e85b28dbdd6e84c3aa62a68fb86c982682028dcfed703e851c20b8c254669c6"
 
 [[files]]
 file = "mods/createsa_tank_fix-1.3.jar"
@@ -1985,6 +1993,10 @@ file = "mods/entity_texture_features_1.21-neoforge-7.1.jar"
 hash = "b2e396543c678b8378a2d5557a0cd3d24790364bff7e96edaf17921112d6176b"
 
 [[files]]
+file = "mods/entityculling-neoforge-1.10.2-mc1.21.1.jar"
+hash = "20014df18edb983b2c8eb764e70209ef84a4ac5aefd29ef25502fb102b0306cd"
+
+[[files]]
 file = "mods/exposure-neoforge-1.21.1-1.9.16.jar"
 hash = "c4adfe346094cf4ce0008c98bf0d20d7c96b9291b3cd31ff2234495eaca2bb58"
 
@@ -1995,10 +2007,6 @@ hash = "0b90f259caef64c3aa09d05427859990a51adec072540a9c598370b86c966a98"
 [[files]]
 file = "mods/ferritecore-7.0.3-neoforge.jar"
 hash = "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
-
-[[files]]
-file = "mods/ftb-chunks-neoforge-2101.1.14.jar"
-hash = "2e6345ecb5a402d7f97005a05bac9507f634d01e4750bab2e47dec00e740c6e5"
 
 [[files]]
 file = "mods/ftb-essentials-neoforge-2101.1.9.jar"
@@ -2059,6 +2067,10 @@ hash = "4dc4b4d5909a929c91b710f84e1746880a95078a904045543b4d4b9f9f261980"
 [[files]]
 file = "mods/immersive_armors-1.7.5+1.21.1-neoforge.jar"
 hash = "69a2a6482d446529e2c402ab94da7abd4a1ab63acb08578575ebdd166fe76b13"
+
+[[files]]
+file = "mods/immersive_optimization-neoforge-1.21-0.1.4.jar"
+hash = "3d7cf11f17677c88db831739a725c12a75cf2c0dafb4a027b3352daa3a447337"
 
 [[files]]
 file = "mods/integrated_api-1.7.4+1.21.1-neoforge.jar"
@@ -2133,6 +2145,10 @@ file = "mods/lootr-neoforge-1.21.1-1.11.37.118.jar"
 hash = "1326956204d2509e19b87614223a4b9f3d83823d2a9f595db86b6b569d03111c"
 
 [[files]]
+file = "mods/maplink-neoforge-4.4.0-1.21-1.21.1.jar"
+hash = "580ea90fcc4960b396fa775edc8da0c3568cc06e3234ed43a4f9cd0e18ed9453"
+
+[[files]]
 file = "mods/modernfix-neoforge-5.27.7+mc1.21.1.jar"
 hash = "67626d9d0a4519877927fee22acb1ee213f850cd1a7ca6eb10182c09b8909e75"
 
@@ -2145,6 +2161,10 @@ file = "mods/moonlight-1.21-2.29.33-neoforge.jar"
 hash = "47759081ab26271fed829f17abe1a8aa8ac1a17a111acb3b9255749e35e00f7a"
 
 [[files]]
+file = "mods/moreculling-neoforge-1.21.1-1.0.7.jar"
+hash = "80e4716a3da53c920ce6e8d122332edc65b91c9f7e4d94bedacac9f35fe32aa0"
+
+[[files]]
 file = "mods/noisium-neoforge-2.7.0+mc1.21-1.21.1.jar"
 hash = "ca097cd53fcdabecbcbf22e2515eb1956f313f094cd3a0506800ebf239e255f9"
 
@@ -2153,8 +2173,16 @@ file = "mods/notenoughanimations-neoforge-1.12.2-mc1.21.1.jar"
 hash = "ec941215d8b14ccf2927e5c80304511d6340d6025fec7212fcdb3fb2ef00a61c"
 
 [[files]]
+file = "mods/observable-5.4.4.jar"
+hash = "f344b47b58f4fd48d1aa95ee4d5c16252b5e5bd39f829fabc96b27097202d2e5"
+
+[[files]]
 file = "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
 hash = "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f"
+
+[[files]]
+file = "mods/particle_core-0.3.3+1.21+neoforge.jar"
+hash = "38c05981d1dc8428c7ab1130b9ec7f05bca1b70f909aba9c454c9611702a8dda"
 
 [[files]]
 file = "mods/petrolpark-1.21.1-1.4.32.jar"
@@ -2329,10 +2357,6 @@ file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
 hash = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
 
 [[files]]
-file = "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
-hash = "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7"
-
-[[files]]
 file = "resourcepacks/Clearate_v1.zip"
 hash = "1ab56660bef885384f58bb3622b456a12f2ca2af1a162055038bd08c5fb63a59"
 
@@ -2355,10 +2379,6 @@ hash = "cb63a5a33c142ce588f1df020c7d4615f57f0e312064e03d4e7901060803905d"
 [[files]]
 file = "resourcepacks/CreateSophiStorage.zip"
 hash = "cea881b7e94723237391ef5075afc68e15bad74d124bb98220804fed1d48e580"
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.10.4.zip"
-hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
 
 [[files]]
 file = "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
