@@ -2325,10 +2325,6 @@ file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
 hash = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
 
 [[files]]
-file = "options.txt"
-hash = "fba97c6ee2f8ff55f4d6532870ced297c2f495bddad636dc99917d0084d94f40"
-
-[[files]]
 file = "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
 hash = "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7"
 
@@ -2359,10 +2355,6 @@ hash = "cea881b7e94723237391ef5075afc68e15bad74d124bb98220804fed1d48e580"
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.10.4.zip"
 hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
-
-[[files]]
-file = "servers.dat"
-hash = "d06a6f0372c004192f58354232fcaeea1f838e8e6fa549288c065892a1622050"
 
 [[files]]
 file = "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"

@@ -1,3 +1,4 @@
-mods/*.jar
 packwiz.exe
 *.mrpack
+options.txt
+servers.dat
