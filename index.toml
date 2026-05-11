@@ -2009,6 +2009,14 @@ file = "mods/easy_tweaker-1.0.0.jar"
 hash = "d79c235e9e6866a300589cc1dccb597c9338be47d71f226a0a711c328144111f"
 
 [[files]]
+file = "mods/emi-1.1.23+1.21.1+neoforge.jar"
+hash = "46c177cbc46f55d6f334cb9047ef199cd57128d6975b7d9e2bca407eb4d23842"
+
+[[files]]
+file = "mods/emixx-neoforge-2.1.0.jar"
+hash = "adcd2dbd0c1d7a7a76a9aae095ab528b19d728812a373cdefc2149a0faa35208"
+
+[[files]]
 file = "mods/entity_model_features_1.21-neoforge-3.1.1.jar"
 hash = "20d9bb3b615a70fd23cf31fc83b40a9b1d4e667789d3448ee723dcfc77ac1604"
 
