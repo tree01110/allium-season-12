@@ -1542,7 +1542,7 @@ hash = "92b8488b53c40f9be3d5414fe382c3e1c6d45f86850345b3bbcee1d212b5f125"
 
 [[files]]
 file = "instructions for myself.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "d7eb3f1d21aa9af45137318486e85db66822313dfb46c74e81885643a81f13a6"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -1891,10 +1891,6 @@ hash = "fb5d8f0f88af98b5901ccd9d0f3ad1231f0796366d48ddfe5d537df6257736bd"
 [[files]]
 file = "mods/create_blaze_burner_fuels-1.0.2-neoforge-1.21.1.jar"
 hash = "69235a1ddd64fa7a37c898258b45ef90ed204b9626c48b73b3ed2d8aa614103e"
-
-[[files]]
-file = "mods/create_connected-1.1.16-mc1.21.1.jar"
-hash = "624415b891764ef57e6979520e0656f1b429f8b4ed69505aee91274c56c4a7fc"
 
 [[files]]
 file = "mods/create_fantasizing-1.21.1-1.1.1.jar"

@@ -1,0 +1,152 @@
+After changing:
+
+* mods
+* configs
+* kubejs
+* resourcepacks
+* shaders
+* scripts
+
+Run:
+
+.\packwiz.exe refresh
+git add .
+git commit -m "PACK UPDATE NAME"
+git push
+
+That pushes the update live.
+
+Players receive updates automatically next launch.
+
+========================================================
+UPDATING MODS
+=============
+
+================================================
+MODRINTH MODS
+=============
+
+Update a mod:
+
+.\packwiz.exe update <modname>
+.\packwiz.exe update sodium
+
+After updating mods:
+
+.\packwiz.exe refresh
+git add .
+git commit -m "Update mods"
+git push
+
+================================================
+MANUAL / LOCAL JAR MODS
+=======================
+
+If replacing a manual jar:
+
+1. Replace jar
+2. Update corresponding .pw.toml if needed
+3. Run:
+
+.\packwiz.exe refresh
+
+4. Push changes:
+
+git add .
+git commit -m "Update manual mod"
+git push
+
+========================================================
+REGENERATING THE MRPACK
+=======================
+
+Usually NOT needed.
+
+ONLY regenerate if:
+
+* Minecraft version changes
+* NeoForge version changes
+* major install changes
+* making a fresh public release
+
+Generate:
+
+.\packwiz.exe modrinth export
+
+========================================================
+IMPORTANT FILES
+===============
+
+pack.toml
+
+* main pack manifest
+
+index.toml
+
+* file hashes/index
+
+mods/
+
+* mod metadata
+
+config/
+
+* synced configs
+
+kubejs/
+
+* synced scripts
+
+========================================================
+COMMON COMMANDS
+===============
+
+Refresh hashes/index:
+
+.\packwiz.exe refresh
+
+Update all mods:
+
+.\packwiz.exe update -a
+
+Generate .mrpack:
+
+.\packwiz.exe modrinth export
+
+Push update live:
+
+git add .
+git commit -m "Update pack"
+git push
+
+========================================================
+IF HASH ERRORS EVER RETURN
+==========================
+
+Run:
+
+git config --global core.autocrlf false
+
+Ensure .gitattributes contains:
+
+* text=auto eol=lf
+
+Then:
+
+git rm --cached -r .
+git reset --hard
+
+.\packwiz.exe refresh
+
+git add .
+git commit -m "Fix line endings"
+git push
+
+========================================================
+REMINDER
+========
+
+DO NOT upload massive mod jars directly into GitHub repo history unless necessary.
+
+GitHub Releases are fine.
+Repo history bloat is not.
