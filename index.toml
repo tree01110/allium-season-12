@@ -1621,8 +1621,8 @@ file = "mods/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar"
 hash = "daba497eaaefe535f04f2ee6f6be11485d3d5b46676fbf0a792d26e178ef4785"
 
 [[files]]
-file = "mods/DnDesires-1.21.1-2.2d-BETA.jar"
-hash = "8718c117ba98e7fd92312a73b37f20fc8cbfac800963bc5ced4eb49ccdb11330"
+file = "mods/DnDesires-1.21.1-2.3a-BETA.jar"
+hash = "d3f7f2384e8327c81671f2d48df15a0bba98ef04b727a430079cfc9145a7a379"
 
 [[files]]
 file = "mods/EasyAnvils-v21.1.0-1.21.1-NeoForge.jar"
@@ -1677,16 +1677,16 @@ file = "mods/MoogsNetherStructures-1.21-2.0.31.jar"
 hash = "72c2daafe897d680a8c1433d6e73bf6d3f39d96b7d15fdcb90de52d06c5936a4"
 
 [[files]]
-file = "mods/MoogsSoaringStructures-1.21-2.0.2.jar"
-hash = "6d09750501b20d73479b05cfbbe9e31f878ce3e69c269d80763d1994dc41371c"
+file = "mods/MoogsSoaringStructures-1.21-2.1.0.jar"
+hash = "569aa32baf5801d9afbed04173a3f861934c40b4496211317f1e34f9437ed9a3"
 
 [[files]]
-file = "mods/MoogsTemplesReimagined-1.21-1.1.0.jar"
-hash = "9c8349ffae09a9d6490543458cca04f3bf01670da49f18b41d16b2d5f0fbf5f8"
+file = "mods/MoogsTemplesReimagined-1.21-1.1.1.jar"
+hash = "cc7e5d1e9b70a2124ae218adc9dd6fd7334da027c5a1d172f3fe291be8208870"
 
 [[files]]
-file = "mods/MoogsVoyagerStructures-1.21-5.0.8.jar"
-hash = "039ef2500895ac99a5e8a4c7250d6c14847c782f962dd8385871f107b5c94a21"
+file = "mods/MoogsVoyagerStructures-1.21-5.0.9.jar"
+hash = "2e8ac33b313173d513b258f33160fbd15fb9b82bb8fba01e964f69a026759c0b"
 
 [[files]]
 file = "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar"
@@ -1821,8 +1821,8 @@ file = "mods/chunkactivitytracker-neoforge-1.0.1-1.21.1.jar"
 hash = "4b0dc7252b626c80be0fb9e3e72ea3b461f33cdc66d6c08bad320a4ed4b864e3"
 
 [[files]]
-file = "mods/citadel-1.21.1-2.7.5.jar"
-hash = "6abf9492db59c0dc1f38e884710f2352bf55e1cb2ceb919c62aac4fabb1de6b8"
+file = "mods/citadel-1.21.1-2.7.6.jar"
+hash = "9e12468c49e5a95b7adbf22b3b4d05bc55565989b89c40b985cd73bdfe63c3c2"
 
 [[files]]
 file = "mods/clientcrafting-1.21-2.1.jar"
@@ -1853,8 +1853,8 @@ file = "mods/corpse-neoforge-1.21.1-1.1.13.jar"
 hash = "f61e750eb2cb49867483d34d6630e02597a52e41680fc38d1c65ece4ef36fd2b"
 
 [[files]]
-file = "mods/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar"
-hash = "43c1ac104381748439f92ea426207b86f93bc641f1d6cfebc08be4a563d91260"
+file = "mods/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar"
+hash = "4fc4702868b51cbb94717f2c209373f2823fb1383a45c77ffdbeb6df96440d51"
 
 [[files]]
 file = "mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar"
@@ -2133,8 +2133,8 @@ file = "mods/lootr-neoforge-1.21.1-1.11.37.118.jar"
 hash = "1326956204d2509e19b87614223a4b9f3d83823d2a9f595db86b6b569d03111c"
 
 [[files]]
-file = "mods/modernfix-neoforge-5.27.4+mc1.21.1.jar"
-hash = "eb3b0bee79078ca0f9d39b20a8edd847384c287179478f99065c7d1eb95f4033"
+file = "mods/modernfix-neoforge-5.27.7+mc1.21.1.jar"
+hash = "67626d9d0a4519877927fee22acb1ee213f850cd1a7ca6eb10182c09b8909e75"
 
 [[files]]
 file = "mods/moogs_structures-neoforge-1.21.1-2.0.2.jar"
@@ -2181,8 +2181,8 @@ file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
 hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
 
 [[files]]
-file = "mods/railways-0.1.0+neoforge-mc1.21.1.jar"
-hash = "da0f0ba8d00252027914db7afce6a1115bac1244ef3ca4ff04c35f77ae9606ac"
+file = "mods/railways-0.2.0-beta.2+neoforge-mc1.21.1.jar"
+hash = "8dd9e285da0bd01c24f2cddc14182c01b570197dc2a9c9d5aa85e0b6bae47570"
 
 [[files]]
 file = "mods/rechiseled-1.2.4-neoforge-mc1.21.jar"
