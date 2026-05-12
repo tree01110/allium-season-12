@@ -2341,10 +2341,6 @@ file = "mods/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar"
 hash = "925d61a8cee8ca013bac15cda2fcfbdf647eb1cde50c414c18298ea3a627c640"
 
 [[files]]
-file = "mods/toomanyrecipeviewers-0.7.3+mc.21.1.jar"
-hash = "1b40971e4dc2dc29479eceace3354ef52fa960ea27c9948f68447ae9d92a36f5"
-
-[[files]]
 file = "mods/tracks-neoforge-1.21.1-1.0.1.jar"
 hash = "b126b2522a129c13ebec6491b8602726bad9a3df201cf906468ba583796125c8"
 
