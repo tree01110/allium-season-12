@@ -833,6 +833,10 @@ file = "config/easymagic-server.toml"
 hash = "887c00afdd5780ce901d398a9a06c3665edbc163071a823ac675ec3d32953a91"
 
 [[files]]
+file = "config/emi.css"
+hash = "e4ca714bb6758e51679a0e726469784a68d6baccf4b7be716e31feb785e5afab"
+
+[[files]]
 file = "config/entity_model_features.json"
 hash = "6afd029bf11ffe17facede2ce7b3e55982b224382c3e9042a262a69b19e5ceb8"
 
