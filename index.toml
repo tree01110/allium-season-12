@@ -1861,10 +1861,6 @@ file = "mods/cloth-config-15.0.140-neoforge.jar"
 hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
 
 [[files]]
-file = "mods/colorwheel-neoforge-1.2.5+mc1.21.1.jar"
-hash = "233de8a370fa40fc3b80c118416a3cd14b5342c8a3fb7b2a9c834604a909a452"
-
-[[files]]
 file = "mods/comforts-neoforge-9.0.5+1.21.1.jar"
 hash = "6b0fd35a1349107e08a45539adbde9683bb203febc43a3305f6fc4ac73e59615"
 
