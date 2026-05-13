@@ -1813,6 +1813,10 @@ file = "mods/atlas_api-1.21.1-1.2.0.jar"
 hash = "42f213c8fc8db43e307dd5b0b726acb2b044548258bcac6c3f666a953688cc64"
 
 [[files]]
+file = "mods/auto-reauth-0.2.1-1.21.1.jar"
+hash = "43846982ed75075d78a5e3096011049930cba237a5e9e52d2ffeff60f946ac3a"
+
+[[files]]
 file = "mods/baguettelib-1.21.1-NeoForge-2.0.3.jar"
 hash = "98addfb68b1e92d4f40ef37cdea8f46217bf7188991cc7347a3fc510a410f1e5"
 
