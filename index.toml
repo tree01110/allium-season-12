@@ -1781,6 +1781,10 @@ file = "mods/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.91.jar"
 hash = "107ec5b3cca05a038ee21aa35e5c68880297c370e4a47d14998ecfa7270af369"
 
 [[files]]
+file = "mods/cataclysm_spellbooks-1.1.11-1.21.jar"
+hash = "6a056e8d9f735defc531cec85c2ced75992950312f2dcaa2aa9fc090cf291763"
+
+[[files]]
 file = "mods/chunkactivitytracker-neoforge-1.0.1-1.21.1.jar"
 hash = "4b0dc7252b626c80be0fb9e3e72ea3b461f33cdc66d6c08bad320a4ed4b864e3"
 
@@ -1895,6 +1899,10 @@ hash = "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a"
 [[files]]
 file = "mods/createdeco-2.1.3.jar"
 hash = "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
+
+[[files]]
+file = "mods/createdieselgenerators-1.21.1-1.3.12.jar"
+hash = "becdacb4eabdee5846e9821fd6de50fd31698816151ce1e0ab23818136bcec73"
 
 [[files]]
 file = "mods/createfood-neoforge-1.21.1-2.2.0a.jar"
@@ -2087,6 +2095,10 @@ hash = "650900b0f6561a74d6e2129a9094fd0b8a9eea0a60d2a580261e0d4b25fcaf22"
 [[files]]
 file = "mods/irons_spellbooks-1.21.1-3.15.6.jar"
 hash = "ba1f1986ca706ae348cb6fce6e383ab7cc61c375826ccf0e4d3a88ed2f9fcd3d"
+
+[[files]]
+file = "mods/ironssablecompat-1.0.3.jar"
+hash = "d3186e8d7856d08190a2e6d838b3df251492811b2a0392525ff7a4508e2d3134"
 
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.27.0.336.jar"
