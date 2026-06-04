@@ -1673,6 +1673,10 @@ file = "mods/Quark-4.1-479.jar"
 hash = "e75c07635fc2d36c81c127d20b285681c73c3c9b73fff3f01daf2d2b22469da6"
 
 [[files]]
+file = "mods/SableStuffAdditionsCompat v1.0.3-1.21.1.jar"
+hash = "4fbe277b75c5094a85cad86fde1e93f719b24876e3ecd62f614fe882d3223bf1"
+
+[[files]]
 file = "mods/Searchables-neoforge-1.21.1-1.0.2.jar"
 hash = "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
 
@@ -1903,6 +1907,10 @@ hash = "e9f597d3a057a05ce5636a3152f65180e362b8ff6a03d6702ef622619c2d15fd"
 [[files]]
 file = "mods/createbetterfps-1.21.1-1.1.4.jar"
 hash = "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a"
+
+[[files]]
+file = "mods/createcobblestone-1.4.10+neoforge-1.21.1-139 (1).jar"
+hash = "6b6fadb3c53aed250fb3c1c9e6bd5b88ee03acf27e1c337b30dd96df1ab74b1f"
 
 [[files]]
 file = "mods/createdeco-2.1.3.jar"
