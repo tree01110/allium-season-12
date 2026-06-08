@@ -1793,8 +1793,8 @@ file = "mods/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.91.jar"
 hash = "107ec5b3cca05a038ee21aa35e5c68880297c370e4a47d14998ecfa7270af369"
 
 [[files]]
-file = "mods/cataclysm_spellbooks-1.1.11-1.21.jar"
-hash = "6a056e8d9f735defc531cec85c2ced75992950312f2dcaa2aa9fc090cf291763"
+file = "mods/cataclysm_spellbooks-1.1.12-1.21.jar"
+hash = "3d5d666ffe22d77f077486c7bcc83e2dbfe1c3d476544a7959cc724fab2d3ea1"
 
 [[files]]
 file = "mods/chunkactivitytracker-neoforge-1.0.1-1.21.1.jar"
